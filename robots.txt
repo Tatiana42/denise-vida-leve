@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vidaleve.denisesouza.com.br/sitemap.xml
